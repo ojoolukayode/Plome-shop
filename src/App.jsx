@@ -258,8 +258,8 @@ export default function App() {
               <div className="space-y-3">
                 <h4 className="font-serif text-sm font-semibold text-neutral-900">Address</h4>
                 <address className="font-sans text-sm text-neutral-600 leading-relaxed not-italic">
-                  475 Cherry Dr. Troy, Michigan 48083 United States<br/>
-                  <a href="tel:+12488233200" className="hover:text-black transition-colors">(248) 823-3200</a>
+                  Shop 10, Joshua Complex, Akala Express, Ibadan, Nigeria<br/>
+                  <a href="tel:+2347039291163" className="hover:text-black transition-colors">(234) 703 929 1163</a>
                 </address>
               </div>
             </div>
